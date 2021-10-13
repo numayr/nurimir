@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Numair.
 - 💻 I'm a front-end web developer.
-- 📫 How to reach me @webyte on telegram
+- 📫 How to reach me: @webyte on telegram
 
 <!---
 nurimir/nurimir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
